@@ -1,4 +1,5 @@
-### Photo Gallery Application
+### Aplicacion de galeria de fotos 
+### Python - Manejo de excepciones
 
 ## Descripción
 
